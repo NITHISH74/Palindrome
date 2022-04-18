@@ -43,6 +43,11 @@ class HelloWorld
 ```
 
 ## Output:
+### Case 1:
+![image](https://user-images.githubusercontent.com/94164665/163831452-1af21e3e-7e9c-455b-b3a4-3fbd40495c6e.png)
+### Case 2:
+![image](https://user-images.githubusercontent.com/94164665/163831543-75974a5e-1f9c-4a34-be93-1d97fe19f971.png)
+
 
 ## Result:
 Thus the C# program to display whether the given string is Palindrome or not is executed successfully.
